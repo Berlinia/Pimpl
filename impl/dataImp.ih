@@ -1,0 +1,3 @@
+#include "dataImp.h"
+
+using namespace std;
